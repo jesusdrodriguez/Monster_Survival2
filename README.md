@@ -24,3 +24,5 @@ TODO:
 - [ ] Levels
 - [ ] Player Rewards ?? maybe...
 - [ ] Release as Mobile/Browser
+
+![Game View](https://github.com/jesusdrodriguez/Monster_Survival2/blob/master/Monster_Survival2/Assets/Sprites/Game/ms2.jpg)
